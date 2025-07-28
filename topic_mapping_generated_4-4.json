@@ -1,0 +1,50 @@
+{
+    "Topic_0": [
+        "unto",
+        "god",
+        "thou",
+        "thy",
+        "son",
+        "thee",
+        "day",
+        "man",
+        "people",
+        "israel"
+    ],
+    "Topic_1": [
+        "party",
+        "government",
+        "election",
+        "political",
+        "parliament",
+        "member",
+        "minister",
+        "people",
+        "vote",
+        "chapter"
+    ],
+    "Topic_2": [
+        "bitcoin",
+        "transaction",
+        "block",
+        "unit",
+        "key",
+        "value",
+        "network",
+        "payment",
+        "number",
+        "money"
+    ],
+    "Topic_3": [
+        "health",
+        "exercise",
+        "activity",
+        "risk",
+        "study",
+        "physical",
+        "disease",
+        "blood",
+        "food",
+        "individual"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "Topic_0": [
+        "law",
+        "court",
+        "case",
+        "party",
+        "legal",
+        "act",
+        "government",
+        "state",
+        "political",
+        "right"
+    ],
+    "Topic_1": [
+        "health",
+        "risk",
+        "activity",
+        "study",
+        "exercise",
+        "disease",
+        "physical",
+        "system",
+        "blood",
+        "year"
+    ],
+    "Topic_2": [
+        "data",
+        "user",
+        "service",
+        "window",
+        "file",
+        "system",
+        "computer",
+        "application",
+        "server",
+        "information"
+    ],
+    "Topic_3": [
+        "user",
+        "system",
+        "data",
+        "service",
+        "window",
+        "application",
+        "information",
+        "file",
+        "server",
+        "type"
+    ],
+    "Topic_4": [
+        "unto",
+        "god",
+        "thou",
+        "thy",
+        "son",
+        "thee",
+        "day",
+        "man",
+        "people",
+        "israel"
+    ],
+    "Topic_5": [
+        "market",
+        "economy",
+        "economist",
+        "price",
+        "economic",
+        "economics",
+        "people",
+        "theory",
+        "country",
+        "good"
+    ],
+    "Topic_6": [
+        "bitcoin",
+        "transaction",
+        "block",
+        "unit",
+        "key",
+        "value",
+        "network",
+        "payment",
+        "number",
+        "money"
+    ],
+    "Topic_7": [
+        "health",
+        "exercise",
+        "activity",
+        "risk",
+        "study",
+        "physical",
+        "disease",
+        "blood",
+        "food",
+        "individual"
+    ]
+}
